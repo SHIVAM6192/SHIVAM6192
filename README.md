@@ -1,21 +1,18 @@
 <div align="center">
   
-  # Hi there, I'm Shivam Sagar! 👋
+# Hi there, I'm Shivam Sagar! 👋
 
-  <h3>Software Developer | AI/ML Enthusiast | Backend Specialist</h3>
+<h3 align="center">Software Developer | AI/ML Enthusiast | Backend Specialist </h3>
 
   <p>
     <em>"Bridging the gap between robust Backend Engineering and Intelligent Systems."</em>
   </p>
 
-  <a href="mailto:shivamsagar6192@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivamsagar6192%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/shivam-sagar-002263209">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SHIVAM6192">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:shivamsagar6192@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shivamsagar6192%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
@@ -24,14 +21,14 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Developer** based in Pune, India, currently working at **Aloha Technology Pvt.Ltd.**. While my professional days are spent architecting scalable web solutions, my passion lies in **Artificial Intelligence and Machine Learning**.
+I am a passionate software developer with solid hands-on experience in ASP.NET Core backend development 💻 and Django (Python) 🌐, along with a strong, growing focus on Artificial Intelligence & Machine Learning 🤖📊. 
 
-I have a strong foundation in building and optimizing web applications using **ASP.NET Core** and **Django**, but I am actively pivoting my career towards AI/ML to solve complex data-driven challenges.
+I enjoy exploring how data, algorithms, and intelligent models can solve real-world problems and drive smarter decisions. Currently, I am diving deeper into machine learning, AI-driven systems, and deep learning concepts 🚀, with the long-term goal of building intelligent, scalable, and impactful AI-powered applications ⚡🌍.
 
-*🔭 **Currently working on:** Enterprise-level Backend Development using **ASP.NET Core & SQL Server**
-*🌱 **Currently learning:** Deep Learning architectures, Neural Networks, and Advanced AI concepts
-*💡 **Goal:** To apply my engineering skills to build innovative AI/ML solutions
-*🎓 **Education:** Master of Computer Applications (MCA) - 2025
+* 🔭 **Currently working on:** Enterprise-level Backend Development using **ASP.NET Core & SQL Server**
+* 🌱 **Currently learning:** Deep Learning architectures, Neural Networks, and Advanced AI concepts
+* 💡 **Goal:** To apply my engineering skills to build innovative AI/ML solutions
+* 🎓 **Education:** Master of Computer Applications (MCA) - 2025
 
 ---
 
@@ -71,7 +68,7 @@ Designed a model to detect fraudulent and spam SMS messages to enhance communica
 #### 🎓 **Alumni Connect System**
 *Python | Django | SQLite*
 A full-stack web application for collecting alumni feedback.Features include secure user identification, feedback submission forms, and administrative dashboards.
-*🔗 [Live Demo](https://shivamsagar04.pythonanywhere.com/).
+🔗 [Live Demo](https://shivamsagar04.pythonanywhere.com/).
 
 ---
 
@@ -83,7 +80,4 @@ A full-stack web application for collecting alumni feedback.Features include sec
 
 ---
 
-<div align="center">
-  <i>Let's connect and discuss AI, Backend Architecture, or Technology!</i><br>
- <b>Pune, India</b> [cite: 3]
-</div>
+✨ *I believe the future belongs to intelligent systems, and I am committed to growing as an **AI/ML Engineer** while leveraging my strong backend foundation to build powerful, real-world solutions.*
