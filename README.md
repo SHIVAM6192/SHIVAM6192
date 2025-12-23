@@ -2,7 +2,7 @@
   
 # Hi there, I'm Shivam Sagar! 👋
 
-<h3 align="center">Software Developer | AI/ML Enthusiast | Backend Specialist </h3>
+<h3 align="center">Software Developer | AI/ML Enthusiast | Backend Developer</h3>
 
   <p>
     <em>"Bridging the gap between robust Backend Engineering and Intelligent Systems."</em>
