@@ -73,6 +73,7 @@ A full-stack web application for collecting alumni feedback.Features include sec
 ---
 
 ### 📜 Certifications
+* **Model Context Protocol** - Advanced Topics, *Anthropic*
 * **Machine Learning** - Stanford University (Coursera).
 * **Django Web Framework** - Meta.
 * **Agile with Atlassian Jira** - Coursera.
