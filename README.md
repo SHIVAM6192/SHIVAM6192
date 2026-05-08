@@ -21,11 +21,11 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate software developer with solid hands-on experience in ASP.NET Core backend development 💻 and Django (Python) 🌐, along with a strong, growing focus on Artificial Intelligence & Machine Learning 🤖📊. 
+I am a passionate software developer and recent graduate with solid hands-on project experience in ASP.NET Core backend development 💻 and Django (Python) 🌐, along with a strong, growing focus on Artificial Intelligence & Machine Learning 🤖📊. 
 
 I enjoy exploring how data, algorithms, and intelligent models can solve real-world problems and drive smarter decisions. Currently, I am diving deeper into machine learning, AI-driven systems, and deep learning concepts 🚀, with the long-term goal of building intelligent, scalable, and impactful AI-powered applications ⚡🌍.
 
-* 🔭 **Currently working on:** Enterprise-level Backend Development using **ASP.NET Core & SQL Server**
+* 🔭 **Currently working on:** Building robust backend projects and APIs using **ASP.NET Core & SQL Server**
 * 🌱 **Currently learning:** Deep Learning architectures, Neural Networks, and Advanced AI concepts
 * 💡 **Goal:** To apply my engineering skills to build innovative AI/ML solutions
 * 🎓 **Education:** Master of Computer Applications (MCA) - 2025
@@ -44,7 +44,7 @@ I enjoy exploring how data, algorithms, and intelligent models can solve real-wo
 ---
 
 ### 🛠️ Backend & Web Engineering
-*Where I have professional hands-on experience.*
+*Technologies I have mastered through hands-on development and projects.*
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
