@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Shivam Sagar! 👋
+# Hi there, I'm Shivam! 👋
 
 <h3 align="center">Software Developer | AI/ML Enthusiast | Backend Developer</h3>
 
